@@ -1,5 +1,6 @@
 import React from 'react';
 import ChampionList from './ChampionList';
+import ItemList from './ItemList';
 
 class App extends React.Component {
   constructor(props) {
@@ -26,7 +27,7 @@ class App extends React.Component {
         page = <ChampionList />;
         break;
       case 2:
-        page = <h1>Page 2</h1>;
+        page = <ItemList />;
         break;
       case 3:
         page = <h1>Page 3</h1>;
