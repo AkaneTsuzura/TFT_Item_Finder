@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/TFT_Item_Finder/static/js/main.f2273b04.chunk.js",
+    "main.js.map": "/TFT_Item_Finder/static/js/main.f2273b04.chunk.js.map",
+    "runtime-main.js": "/TFT_Item_Finder/static/js/runtime-main.42d3aa34.js",
+    "runtime-main.js.map": "/TFT_Item_Finder/static/js/runtime-main.42d3aa34.js.map",
+    "static/js/2.d820a211.chunk.js": "/TFT_Item_Finder/static/js/2.d820a211.chunk.js",
+    "static/js/2.d820a211.chunk.js.map": "/TFT_Item_Finder/static/js/2.d820a211.chunk.js.map",
+    "index.html": "/TFT_Item_Finder/index.html",
+    "precache-manifest.e37fcc56946e09f72588f2bb4ce35ced.js": "/TFT_Item_Finder/precache-manifest.e37fcc56946e09f72588f2bb4ce35ced.js",
+    "service-worker.js": "/TFT_Item_Finder/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42d3aa34.js",
+    "static/js/2.d820a211.chunk.js",
+    "static/js/main.f2273b04.chunk.js"
+  ]
+}
