@@ -1,3 +1,4 @@
+var items = 
 [
   {
     "id": 1,
@@ -232,3 +233,5 @@
     "name": "Cloud Hex"
   }
 ]
+
+export default items;
